@@ -6,4 +6,4 @@
 
 [Link to site](https://distracted-torvalds-d1f074.netlify.com/)
 
-![Preview](./preview.png)
+![Preview](./preview.PNG)
